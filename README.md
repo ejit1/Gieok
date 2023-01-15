@@ -1,11 +1,16 @@
 # Gieok_여행 명소 제공 서비스
 
 
+
+
+
 ## 1. 주요 기능
 - 등록된 여행 명소, 베스트 사진, 명소 순위 통함 검색
 - 특정 지역 선택 시 해당 지역의 관광 명소 정보 제공
 - 공지, 포토, 이벤트 등록 및 확인
 - 여행을 위한 동행 신청 및 수락 기능 제공
+
+
 
 
 
@@ -33,6 +38,8 @@ www.gieok.icu
 
 
 
+
+
 ## 3. 개발 기간 및 프로젝트 구조
 
 **3-1. 개발 기간**
@@ -50,6 +57,8 @@ https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
 
 
 
+
+
 ## 4. 담당 역할
 - 명소 목록
 - 주변시설 (등록/수정/삭제)
@@ -57,6 +66,8 @@ https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
 - 동행 수락
 - DB 설계 / 수정
 - 서버 세팅 및 배포
+
+
 
 
 
@@ -78,10 +89,11 @@ https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
 
 **5-3. 명소 / 주변시설 목록, 등록**
 
-![image](https://user-images.githubusercontent.com/108389588/212534895-e8c5b668-9995-44a4-80cc-675310f69a21.png)
 ![image](https://user-images.githubusercontent.com/108389588/212534893-a0775a56-5d30-4fa0-9f8a-3cebfe09f631.png)
-![image](https://user-images.githubusercontent.com/108389588/212534904-b603a3db-eeb6-4f44-89f4-780225be9498.png)
+![image](https://user-images.githubusercontent.com/108389588/212534895-e8c5b668-9995-44a4-80cc-675310f69a21.png)
 ![image](https://user-images.githubusercontent.com/108389588/212534899-2c3725cc-1c9a-49e2-a7de-5a26f39d5c39.png)
+![image](https://user-images.githubusercontent.com/108389588/212534904-b603a3db-eeb6-4f44-89f4-780225be9498.png)
+
 
 
 **5-4. 여행 동행 신청**
