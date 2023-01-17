@@ -14,18 +14,28 @@
 
 **2-1. 개발 환경**
 - Language
+
 Java, JSP, HTML, CSS, JavaScript, jQuery
+
 - Framework
+
 Spring Framework (Legacy), Mybatis
+
 - DBMS
+
 Oracle
+
 - API
+
 Summernote API, Kakao Map / 주소 API
+
 - OS
+
 Linux
 
 **2-2. 배포 URL**
 gieok.icu
+
 www.gieok.icu
 
 <br>
